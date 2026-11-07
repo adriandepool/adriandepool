@@ -1,6 +1,9 @@
 # Hola, soy Adrián Reyes 👋
 ### Senior Full Stack & E-commerce Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrián_Reyes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriandepool/)
+[![GitHub](https://img.shields.io/badge/GitHub-adriandepool-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adriandepool)
+
 Desarrollador Full Stack con **+10 años de experiencia** construyendo sitios web, plataformas de **e-commerce** y soluciones de software a medida. Me especializo en **integrar servicios (CRM, ERPs, APIs)**, automatizar procesos comerciales y crear herramientas web rápidas e intuitivas.
 
 ---
@@ -49,4 +52,5 @@ Desarrollador Full Stack con **+10 años de experiencia** construyendo sitios we
 ---
 
 📍 **Ubicación:** Argentina  
+🔗 **Conectemos en LinkedIn:** [linkedin.com/in/adriandepool](https://www.linkedin.com/in/adriandepool/)  
 💼 Abierto a proyectos de desarrollo a medida, consultoría e-commerce e integraciones.
